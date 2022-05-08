@@ -135,7 +135,7 @@ INSTALLED_APPS = [
 ```
 
 
-Now if you start your server using ```python -m django manage.py runserver```, Browse ```127.0.0.1/myapp```, You'll see the output whatever you have written in your view.
+Now if you start your server using ```python manage.py runserver```, Browse ```127.0.0.1/myapp```, You'll see the output whatever you have written in your view.
 
 
 
