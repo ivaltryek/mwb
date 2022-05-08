@@ -1,6 +1,6 @@
 # Create App for your Django Project.
 
-Here `App` could also be considered as an module for your project, for example a module could be Login or Register for your website. Another example for it is Cart for you shopping website.
+Here `App` could also be considered as an module for your project, for example a module could be Login or Register for your website. Another example for it is Cart for your shopping website.
 
 ## Creating an App 
 ```bash
