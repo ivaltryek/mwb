@@ -112,7 +112,7 @@ urlpatterns = [
 
 ```
 
-## Letting Django know that `myapp` is exists in the Directory
+## Letting Django know that `myapp` does exists in the Directory
 
 ```python
 # webapp/settings.py
