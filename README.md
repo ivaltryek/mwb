@@ -8,3 +8,4 @@
     - [PARAMETER_VIEW.md](https://github.com/meet86/mwb/blob/main/django/PARAMETER_VIEW.md)
     - [DATABASE.md](https://github.com/meet86/mwb/blob/main/django/DATABASE.md)
     - [MODELS.md](https://github.com/meet86/mwb/blob/main/django/MODELS.md)
+    - [DATABASE_WITH_VIEWS.md]((https://github.com/meet86/mwb/blob/main/django/DATABASE_WITH_VIEWS.md)
