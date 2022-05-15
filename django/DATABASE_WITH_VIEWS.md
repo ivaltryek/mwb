@@ -17,6 +17,8 @@ Now that we have entered question, we can fetch it from `views`.
 ```python
 # polls/views.py
 
+from .models import Question
+
 def show_question_list(request):
     latest_question_list = Question.objects.order_by('-pub_date')[:2]
     output = ', '.join([q.question_text for q in latest_question_list])
