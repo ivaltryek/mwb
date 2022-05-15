@@ -7,3 +7,4 @@
     - [CREATE_APP.md](https://github.com/meet86/mwb/blob/main/django/CREATE_APP.md)
     - [PARAMETER_VIEW.md](https://github.com/meet86/mwb/blob/main/django/PARAMETER_VIEW.md)
     - [DATABASE.md](https://github.com/meet86/mwb/blob/main/django/DATABASE.md)
+    - [MODELS.md](https://github.com/meet86/mwb/blob/main/django/MODELS.md)
