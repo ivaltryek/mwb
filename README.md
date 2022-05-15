@@ -9,3 +9,4 @@
     - [DATABASE.md](https://github.com/meet86/mwb/blob/main/django/DATABASE.md)
     - [MODELS.md](https://github.com/meet86/mwb/blob/main/django/MODELS.md)
     - [DATABASE_WITH_VIEWS.md](https://github.com/meet86/mwb/blob/main/django/DATABASE_WITH_VIEWS.md)
+    - [TEMPLATES_AND_VIEWS.md](https://github.com/meet86/mwb/blob/main/django/TEMPLATES_AND_VIEWS.md)
